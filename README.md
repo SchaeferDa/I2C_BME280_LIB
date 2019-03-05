@@ -37,7 +37,7 @@ This project was developed with Atmel Studio 7.0 IDE.
 
 ## 3 How to measure
 ### 3.1 How to measure temperature
-1. Initialize BME280 with I²C-Address [[Section 4.01]](#401-initialize-BME280-with-I²C-Address)
+1. Initialize BME280 with I²C-Address [[Section 4.01]](#401-initialize-bme280-with-ic-address)
 2. Activate operating mode [[Section 4.09]](#409-set-operating-mode-on-BME280)
 3. Set standby time [[Section 4.10]](#410-set-standby-time-on-BME280)
 4. Set filter coefficient [[Section 4.11]](#411-set-filter-coefficient-on-BME280)
@@ -45,7 +45,7 @@ This project was developed with Atmel Studio 7.0 IDE.
 6. Calibrate temperature [[Section 4.06]](#406-calibrate-temperatur-on-BME280)
 
 ### 3.2 How to measure pressure
-1. Initialize BME280 with I²C-Address [[Section 4.01]](#401-initialize-BME280-with-I²C-Address)
+1. Initialize BME280 with I²C-Address [[Section 4.01]](#401-initialize-bme280-with-ic-address)
 2. Activate operating mode [[Section 4.09]](#409-set-operating-mode-on-BME280)
 3. Set standby time [[Section 4.10]](#410-set-standby-time-on-BME280)
 4. Set filter coefficient [[Section 4.11]](#411-set-filter-coefficient-on-BME280)
@@ -53,7 +53,7 @@ This project was developed with Atmel Studio 7.0 IDE.
 6. Calibrate pressure [[Section 4.07]](#407-calibrate-pressure-on-BME280)
 
 ### 3.3 How to measure humidity
-1. Initialize BME280 with I²C-Address [[Section 4.01]](#401-initialize-BME280-with-I²C-Address)
+1. Initialize BME280 with I²C-Address [[Section 4.01]](#401-initialize-bme280-with-ic-address)
 2. Activate operating mode [[Section 4.09]](#409-set-operating-mode-on-BME280)
 3. Set standby time [[Section 4.10]](#410-set-standby-time-on-BME280)
 4. Set filter coefficient [[Section 4.11]](#411-set-filter-coefficient-on-BME280)
