@@ -15,10 +15,10 @@ This project was developed with Atmel Studio 7.0 IDE.
 
 
 > **Notice**
-> This library was tested on an ATmega328P with Bosch Sensortec BMP280.
-> Only measurement of temperature and pressure was tested.
-> 
-> **Use this library at your own risk.**
+> This library was tested on an ATmega328P with Bosch Sensortec BMP280.  
+> Only measurement of temperature and pressure was tested.  
+>   
+> **Use this library at your own risk.**  
 
 ## 2 Features
 - Measurement of current temperature in *°C*
@@ -60,10 +60,9 @@ This project was developed with Atmel Studio 7.0 IDE.
 5. Set humidity oversampling [[Section 4.14]](#414-set-humidity-oversampling-on-BME280)
 6. Calibrate humidity [[Section 4.08]](#408-calibrate-humidity-on-BME280)
 
-> **Notice**
-> Configuration values depend on operation of BME280.
-> --> Datasheet BME280 [[Section 6.1]](#61-Datasheet-Bosch-Sensortec-BME280)
-
+> **Notice**  
+> Configuration values depend on operation of BME280.  
+> ⇾ Datasheet BME280 [[Section 6.1]](#61-Datasheet-Bosch-Sensortec-BME280) 
 
 ## 4 Usage
 
