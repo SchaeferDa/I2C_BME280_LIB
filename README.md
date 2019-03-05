@@ -288,12 +288,6 @@ boolean BME280_set_temperature_oversampling(unsigned char temperature_oversampli
 #### 4.12.1 set temperature oversampling to off [output 0x80000]
 ```c
 boolean BME280_set_temperature_oversampling_off();
-boolean BME280_set_temperature_oversampling_1();
-boolean BME280_set_temperature_oversampling_2();
-boolean BME280_set_temperature_oversampling_4();
-boolean BME280_set_temperature_oversampling_8();
-boolean BME280_set_temperature_oversampling_16();
-unsigned char BME280_get_temperature_oversampling();
 ```
 
 #### 4.12.2 set temperature oversampling to 1
@@ -350,12 +344,6 @@ boolean BME280_set_pressure_oversampling(unsigned char pressure_oversampling);
 #### 4.13.1 set pressure oversampling to off [output 0x80000]
 ```c
 boolean BME280_set_pressure_oversampling_off();
-boolean BME280_set_pressure_oversampling_1();
-boolean BME280_set_pressure_oversampling_2();
-boolean BME280_set_pressure_oversampling_4();
-boolean BME280_set_pressure_oversampling_8();
-boolean BME280_set_pressure_oversampling_16();
-unsigned char BME280_get_pressure_oversampling();
 ```
 
 #### 4.13.2 set pressure oversampling to 1
@@ -412,12 +400,6 @@ boolean BME280_set_humidity_oversampling(unsigned char humidity_oversampling);
 #### 4.14.1 set humidity oversampling to off [output 0x80000]
 ```c
 boolean BME280_set_humidity_oversampling_off();
-boolean BME280_set_humidity_oversampling_1();
-boolean BME280_set_humidity_oversampling_2();
-boolean BME280_set_humidity_oversampling_4();
-boolean BME280_set_humidity_oversampling_8();
-boolean BME280_set_humidity_oversampling_16();
-unsigned char BME280_get_humidity_oversampling();
 ```
 
 #### 4.14.2 set humidity oversampling to 1
