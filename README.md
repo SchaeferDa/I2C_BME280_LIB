@@ -1,10 +1,10 @@
-> **Contents**
->**[1 Overview](#1-Overview)**
->**[2 Features](#2-Features)**
->**[3 How to measure](#3-How-to-measure)**
->**[4 Usage](#4-Usage)**
->**[5 Used Libraries](#5-Used-Libraries)**
->**[6 Used Literature](#6-Used-Literature)**
+> **Contents**  
+>**[1 Overview](#1-Overview)**  
+>**[2 Features](#2-Features)**  
+>**[3 How to measure](#3-How-to-measure)**  
+>**[4 Usage](#4-Usage)**  
+>**[5 Used Libraries](#5-Used-Libraries)**  
+>**[6 Used Literature](#6-Used-Literature)**  
 
 ## 1 Overview
 This is a static library for Bosch Sensortec BME280 with I²C for Atmel ATmega328P.
