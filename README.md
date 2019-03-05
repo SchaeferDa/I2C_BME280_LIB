@@ -1,5 +1,3 @@
-**[Download Library [latest version]](https://github.com/schaeferservices/I2C_BME280_LIB/realeases)**
-
 > **Content**  
 >**[1 Overview](#1-Overview)**  
 >**[2 Features](#2-Features)**  
@@ -7,7 +5,9 @@
 >**[4 Usage](#4-Usage)**  
 >**[5 Used Libraries](#5-Used-Libraries)**  
 >**[6 Used Literature](#6-Used-Literature)**  
-
+  
+**[Download Library [latest version]](https://github.com/schaeferservices/I2C_BME280_LIB/releases)**
+  
 ## 1 Overview
 This is a static library for Bosch Sensortec BME280 with I²C for Atmel ATmega328P.
 
