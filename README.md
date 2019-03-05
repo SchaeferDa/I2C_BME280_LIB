@@ -14,7 +14,7 @@ This is an education project.
 This project was developed with Atmel Studio 7.0 IDE.
 
 
-> **Notice**
+> **Notice**  
 > This library was tested on an ATmega328P with Bosch Sensortec BMP280.  
 > Only measurement of temperature and pressure was tested.  
 >   
