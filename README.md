@@ -20,8 +20,8 @@ This project was developed with Atmel Studio 7.0 IDE.
 >   
 > **Use this library at your own risk.**  
 
-> **!Important**  
-> The I²C-Library [Section 5.1](#51-I2C_LIB) must be connected/enclosed!  
+> **Important**  
+> The I²C-Library [[Section 5.1]](#51-I2C_LIB) must be connected/enclosed!  
 
 ## 2 Features
 - Measurement of current temperature in *°C*
