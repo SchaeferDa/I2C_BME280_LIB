@@ -434,7 +434,7 @@ unsigned char BME280_get_humidity_oversampling();
 
 ## 5 Used Libraries
 ### 5.1 I2C_LIB
-- [I2C_LIB [v1.0]](https://github.com/schaeferservices/I2C_LIB/releases)
+- [I2C_LIB [v1.0]](https://github.com/schaeferservices/I2C_LIB)
 
 ## 6 Used Literature
 ### 6.1 Datasheet Bosch Sensortec BME280
