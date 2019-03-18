@@ -96,7 +96,7 @@ double BME280_get_pressure();
 double BME280_get_humidity();
 ```
 
-### 4.06 calibrate temperatur on BME280
+### 4.06 calibrate temperature on BME280
 ```c
 void BME280_calibrate_temperature();
 ```
